@@ -7,7 +7,7 @@
 
 <br/>
 
-This repository hosts an automation solution designed to address the challenge outlined in the requirements below:
+This repository hosts an automation solution designed to address the challenge outlined in the requirements below.
 
 **Objective**
 
