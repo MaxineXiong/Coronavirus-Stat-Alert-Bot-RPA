@@ -11,7 +11,7 @@ This repository hosts an automation solution designed to address the challenge o
 
 **Objective**
 
-Develop a **Coronavirus stat-alert bot** capable of scraping Coronavirus statistics (**Total Cases**, **Total Deaths**, and **Total Recovered**) from a user-inputted country on the website https://www.worldometers.info/coronavirus/. The bot will then send an update email containing the scraped data to specified friends or family members.
+Develop a **Coronavirus stat-alert bot** capable of **scraping Coronavirus statistics** (**Total Cases**, **Total Deaths**, and **Total Recovered**) from a user-inputted country on the website https://www.worldometers.info/coronavirus/. The bot will then **send an update email** containing the scraped data to specified friends or family members.
 
 **Instructions**
 
