@@ -21,11 +21,9 @@ Develop a **Coronavirus stat-alert bot** capable of **scraping Coronavirus stati
 4. Save the Total Cases, Total Deaths, and Total Recovered values in separate String variables.
 5. Employ a For Each activity to iterate through an array of email addresses and dispatch an email containing the scraped statistics to each address using the Send Outlook Mail Message activity.
 
+_You can check out the **automation demo video for the solution** below_:
 
-
-
-
-The final output of this automation solution, an automated email summary report, can be exemplified as shown below:
+https://github.com/MaxineXiong/Coronavirus-Stat-Alert-Bot-RPA/assets/55864839/9eb4e889-7d70-4766-b81f-1c30ddb7d349
 
 
 
